@@ -3,16 +3,6 @@
 ![PNG](https://github.com/user-attachments/assets/628b26d5-f9db-46eb-a18c-a52949fd3ce4)
 
 
-Reasoned about seamless library installation for 5 seconds
-Detailing vulnerabilities
-
-I’m mapping out the scanner's functionalities and installation ease, showing its superiority over blocked tools like nmap and nikto.
-
-Spotlighting key aspects
-
-I’m detailing key features: automated dependency installs, versatile scanning modes, multiple reporting formats, patching recommendations, API settings, and a user-friendly GUI with background threads for responsiveness.
-
-Below is a full description of the vulnerability scanner and reporting tool, its features, and the rationale behind its design and automated installation process:
 
 Overview
 This vulnerability scanner and reporting tool is a modern, GUI-based application designed to help security professionals and system administrators identify vulnerabilities on local systems and remote domains. Built using Python and PyQt5, the tool offers a comprehensive set of features that distinguish it from traditional scanning tools like nmap and nikto. In many secure or restricted environments, administrators block these conventional tools due to their intrusive scanning methods. This scanner, however, employs alternative, less detectable techniques that help bypass such restrictions.
